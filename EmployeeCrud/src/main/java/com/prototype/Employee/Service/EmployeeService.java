@@ -1,12 +1,12 @@
-package com.prototype.genapp.Service;
+package com.prototype.Employee.Service;
 import java.util.List;
 import java.util.Optional;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.prototype.genapp.Model.Employee;
-import com.prototype.genapp.Repository.EmployeeRepository;
+import com.prototype.Employee.Model.Employee;
+import com.prototype.Employee.Repository.EmployeeRepository;
 
 @Service
 public class EmployeeService {

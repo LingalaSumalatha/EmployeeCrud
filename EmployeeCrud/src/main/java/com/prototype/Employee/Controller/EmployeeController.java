@@ -1,4 +1,4 @@
-package com.prototype.genapp.Controller;
+package com.prototype.Employee.Controller;
 
 import java.util.List;
 
@@ -12,8 +12,8 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.prototype.genapp.Model.Employee;
-import com.prototype.genapp.Service.EmployeeService;
+import com.prototype.Employee.Model.Employee;
+import com.prototype.Employee.Service.EmployeeService;
 
 @RestController
 @RequestMapping("/employees")

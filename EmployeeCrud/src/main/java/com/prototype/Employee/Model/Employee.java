@@ -1,4 +1,4 @@
-package com.prototype.genapp.Model;
+package com.prototype.Employee.Model;
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;

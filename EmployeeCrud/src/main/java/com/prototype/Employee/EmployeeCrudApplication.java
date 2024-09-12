@@ -1,4 +1,4 @@
-package com.prototype.genapp;
+package com.prototype.Employee;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

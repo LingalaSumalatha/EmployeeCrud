@@ -1,4 +1,4 @@
-package com.prototype.genapp.Repository;
+package com.prototype.Employee.Repository;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
